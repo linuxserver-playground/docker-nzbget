@@ -69,7 +69,7 @@ libunistring            1.4.2-r0          apk
 libxml2                 2.13.9-r2         apk                              
 libxslt                 1.1.43-r3         apk                              
 linux-pam               1.7.1-r2          apk                              
-markdown                3.11.2            python                           
+markdown                3.11.3            python                           
 more-itertools          10.8.0            python                           
 mpdecimal               4.0.1-r0          apk                              
 msgpack                 1.2.4             python                           
