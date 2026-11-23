@@ -23,7 +23,7 @@ ca-certificates-bundle  20261020-r0       apk
 catatonit               0.2.1-r0          apk                              
 certifi                 2026.10.23        python                           
 certifi                 2026.11.20        python                           
-charset-normalizer      3.5.2             python                           
+charset-normalizer      3.5.3             python                           
 cli                     UNKNOWN           binary                           
 cli-32                  UNKNOWN           binary                           
 cli-64                  UNKNOWN           binary                           
@@ -55,7 +55,7 @@ libbz2                  1.0.8-r6          apk
 libcrypto3              3.5.9-r1          apk                              
 libcurl                 8.23.0-r0         apk                              
 libexpat                2.10.0-r0         apk                              
-libffi                  3.5.2-r1          apk                              
+libffi                  3.8.1-r0          apk                              
 libgcc                  15.2.0-r5         apk                              
 libidn2                 2.3.8-r0          apk                              
 libintl                 1.0-r0            apk                              
@@ -82,7 +82,8 @@ nghttp2-libs            1.70.0-r0         apk
 oauthlib                4.0.1             python                           
 oniguruma               6.9.10-r0         apk                              
 openssl                 3.5.9-r1          apk                              
-packaging               26.3              python          (+2 duplicates)  
+packaging               26.3              python          (+1 duplicate)   
+packaging               26.4              python                           
 pip                     26.3              python                           
 pip                     UNKNOWN           UnknownPackage                   
 platformdirs            4.12.4            python                           
